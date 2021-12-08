@@ -1,4 +1,5 @@
 # Social-Media-App---WebProject
+SOCIAL MEDIA APPLICATION USING MERN STACK
 
 
 PROJECT IDEA 
@@ -10,10 +11,4 @@ Features:
 •	User Profile
 •	Searching people
 •	Adding/ following people and many more
-SOCIAL MEDIA APPLICATION USING MERN STACK
-
-Sr#	Roll Number 	Name
-1	  19F-0245	    Talal Ahmed
-2	  19F-0151	    Ahmed Raza
-3	  19F-0179	    Muhammed Tayyab
 
