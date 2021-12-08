@@ -1,8 +1,6 @@
 # Social-Media-App---WebProject
 
-PROJECT PROPOSAL                                                                                  
 
-DATE:4TH  NOVEMBER, 2021
 PROJECT IDEA 
 A simple social media application with users, posts, likes, and comments developed using React, NodeJS, Express and MongoDB.
 Features:
